@@ -1,0 +1,152 @@
+Activate_Edit_Menu:M+E:Displays the Edit menu.
+Activate_File_Menu:M+F:Displays the File menu.
+Activate_Help_Menu:M+H:Displays the Help menu.
+Activate_Options_Menu:M+O:Displays the Options menu.
+Activate_Project_Menu:M+P:Displays the project menu.
+Activate_Search_Menu:M+S:Displays the Search menu.
+Activate_Search_Results:M+R:Activates the Search Results window.
+Activate_Symbol_Window:M+L:Opens and selects the Symbol Window for the current file.
+Activate_View_Menu:M+V:Displays the View menu.
+Activate_Window_Menu:M+W:Displays the Window menu.
+Activate_Work_Menu:M+K:Displays the Work menu.
+Back_Tab:Shift+Tab:Moves the cursor left one tab stop.
+Beginning_Of_Selection:Ctrl+Alt+[:Moves the cursor to the beginning of an extended selection.
+Blank_Line_Down:Ctrl+Down:Moves cursor to the next blank line.
+Blank_Line_Up:Ctrl+Up:Moves cursor to the previous blank line.
+Block_Down:Ctrl+Shift+]:Moves cursor to the previous opening block/brace.
+Block_Up:Ctrl+Shift+[:Moves cursor to the following closing block/brace.
+Browse_Local_File_Symbols:F8:Lists symbolic information for the current file.
+Browse_Project_Symbols:Alt+G:Lists all symbolic information for the current project.
+Clear_Highlights:Ctrl+Alt+H:Removes all word highlighting in all source windows.
+Close:X+K:Closes the current file.
+Close_All:X+Ctrl+K:Closes all open files.
+Close_Project:P+C:Closes the current project.
+Complete_Symbol:E+S:Completes typing a symbol name.
+Copy_Line_Right:E+Ctrl+C:Copies to the clipboard text from cursor to end of line.
+Cursor_Down:Down:Moves the cursor down one line.
+Cursor_Left:Left:Moves the cursor left one character.
+Cursor_Right:Right:Moves the cursor right one character.
+Cursor_Up:Up:Moves the cursor up one line.
+Cut_Line:E+W:Cuts the whole line(s) containing the selection.
+Cut_Line_Left:E+Alt+W:Cuts the line from the beginning up to the selection.
+Cut_Line_Right:E+Ctrl+W:Cuts the line from selection to the end of the line.
+Delete_Line:E+D:Deletes the whole line(s) containing the selection. Clipboard uneffected.
+Display_Options:M+D:Specifies options, such as screen colors, for the display.
+Document_Options:M+T:Defines document file types and their properties.
+Drag_Line_Down:Ctrl+Alt+N:Moves selected text down by one line.
+Drag_Line_Up:Ctrl+Alt+P:Moves selected text up by one line.
+eAddFileHdr:C+H:Add a file description commentment
+eAutoEnter:Enter:Custom Command or Editor Macro.
+eBreakEighty:E+E:Custom Command or Editor Macro.
+eBreakToNextLine:E+Ctrl+B:Custom Command or Editor Macro.
+eBufCmd:Ctrl+X:Custom Command or Editor Macro.
+eBufCmd:Ctrl+X:Custom Command or Editor Macro.
+eCmtCmd:Alt+C:Custom Command or Editor Macro.
+eCommentAllFunc:C+A:Custom Command or Editor Macro.
+eCommentAllOpenBuf:C+O:Custom Command or Editor Macro.
+eCommentBlock:C+/:Custom Command or Editor Macro.
+eCommentFunc:C+F:Custom Command or Editor Macro.
+eCopy:Alt+W:Custom Command or Editor Macro.
+eCopyLine:E+C:
+eCut:Ctrl+W:Custom Command or Editor Macro.
+eDoMark:Ctrl+Shift+2:Custom Command or Editor Macro.
+eEditCmd:Alt+E:Custom Command or Editor Macro.
+eGetKey:Alt+Shift+K:Custom Command or Editor Macro.
+eGoBack:Alt+,:Moves the cursor to the previous location in the Selection History. If Mark is set, off it.
+eGoFwd:Alt+/:Moves the cursor to next location in the Selection History.
+eJumpToDefinition:Alt+.:Moves the cursor to the definition of the selected symbol. If Mark is set, off it.
+eKillNextWord:Alt+D:Custom Command or Editor Macro.
+eKillPrevWord:Alt+BackSpace:Custom Command or Editor Macro.
+eKillToLineEnd:Ctrl+K:Custom Command or Editor Macro.
+eKillToLineHead:Alt+K:Custom Command or Editor Macro.
+eMoveToBuffEnd:Alt+Shift+>:Custom Command or Editor Macro.
+eMoveToBuffHead:Alt+Shift+<:Custom Command or Editor Macro.
+eMoveToLineEnd:Ctrl+E:Custom Command or Editor Macro.
+eMoveToLineHead:Ctrl+A:Custom Command or Editor Macro.
+eMoveToNextChar:Ctrl+F:Custom Command or Editor Macro.
+eMoveToNextLine:Ctrl+N:Custom Command or Editor Macro.
+eMoveToNextScreen:Ctrl+V:Custom Command or Editor Macro.
+eMoveToNextWord:Alt+F:Custom Command or Editor Macro.
+eMoveToPrevChar:Ctrl+B:Custom Command or Editor Macro.
+eMoveToPrevLine:Ctrl+P:Custom Command or Editor Macro.
+eMoveToPrevScreen:Alt+V:Custom Command or Editor Macro.
+eMoveToPrevWord:Alt+B:Custom Command or Editor Macro.
+eNaviCmd:Alt+N:
+End_Of_Selection:Ctrl+Alt+]:Moves the cursor to the end of an extended selection.
+ePaste:Ctrl+Y:Custom Command or Editor Macro.
+ePrjCmd:Alt+P:Project related cmd
+eReCenterTopBottom:Ctrl+L:Custom Command or Editor Macro.
+eRemoveNextChar:Ctrl+D:Custom Command or Editor Macro.
+eRemovePrevChar:BackSpace:Custom Command or Editor Macro.
+eSearchNextTag:Ctrl+Q:
+eSearchPrevTag:Alt+Q:
+eSmartEnd:End:Custom Command or Editor Macro.
+eSmartHome:Home:Custom Command or Editor Macro.
+eUndo:Ctrl+/:Custom Command or Editor Macro.
+eWndCmd:Alt+X:Custom Command or Editor Macro.
+Exit:X+Ctrl+C:Exits Source Insight.
+Function_Down:Ctrl+Alt+=:Moves the cursor to the next defined function.
+Function_Up:Ctrl+Alt+-:Moves the cursor to the previously defined function.
+Generate_Call_Tree:Ctrl+Alt+T:Displays direct and indirect calls from the selected identifier.
+Go_Back_Toggle:Alt+M:Toggles between the last two cursor positions.
+Go_To_Line:Ctrl+G:Moves the cursor to a specified line number.
+Go_To_Next_Link:Ctrl+.:Moves the cursor to the next Source Link destination.
+Go_To_Previous_Link:Ctrl+,:Moves the cursor to the previous Source Link destination.
+Highlight_Word:Alt+H:Toggles highlighting of the word under the cursor in all source windows.
+Incremental_Search:F12:Searches incrementally while you type a pattern string.
+Incremental_Search_Backward:F11:Searches backwards incrementally while you type a pattern string.
+Indent_Left:F9:Moves all selected lines to the left by one tabstop.
+Indent_Right:F10:Moves all selected lines to the right by one tabstop.
+Insert_Line:E+I:Inserts a new blank line before the current line.
+Insert_Line_Before_Next:Ctrl+I:Inserts a new blank line after the current line.
+Insert_New_Line:E+B:Inserts a line break.
+InsertIfdef:Ctrl+Alt+I:Custom Command or Editor Macro.
+Join_Lines:Ctrl+J:Combines the current line with the next.
+Jump_To_Base_Type:N+B:Moves the cursor to the base structure type of the selected symbol.
+Jump_To_Caller:N+C:Jumps to the caller of the current function.
+Jump_To_Definition:N+D:Moves the cursor to the definition of the selected symbol.
+Jump_To_Link:N+L:Moves the cursor to the other end of a Source Link.
+Jump_To_Match:N+M:Moves cursor to matching brace, parentheses, or quote character.
+Jump_To_Prototype:N+P:Moves the cursor to the declaration of the selected function prototype.
+Key_Assignments:Ctrl+Alt+K:Customizes command keystrokes.
+Last_Window:Ctrl+Tab:Activates the previous current source window.
+Lookup_References:Alt+S:Searches for references to the selected or specified word.
+Lowercase:E+L:Converts the selected text to lowercase.
+New:X+Ctrl+N:Creates a new open file.
+New_Project:P+N:Creates a new project.
+Open:Ctrl+O:Opens or creates a new file in the current project.
+Open_Project:P+O:Opens an existing project.
+Paren_Left:Ctrl+9:Moves cursor to the previous opening parentheses.
+Paren_Right:Ctrl+0:Moves cursor to the following closing parentheses.
+Reload_File:X+R:Reloads the current file from disk, losing ALL changes since saving.
+Remove_File:P+R:Removes files from the current project.
+Remove_Project:P+D:Deletes a project.
+Renumber:Ctrl+R:Renumbers numbers found in text.
+Replace:Ctrl+H:Replaces text in the current file.
+Replace_Files:Ctrl+Shift+H:Replaces text in multiple files.
+Run_Macro:Ctrl+Alt+R:Starts running a macro instruction at the cusor position.
+Save:X+Ctrl+S:Saves the current file to disk.
+Save_All:X+Ctrl+A:Saves all open and modified files to disk.
+Save_As:X+Alt+S:Saves the current file to a new name.
+Search:Ctrl+S:Searches for text in the current file
+Search_Backward:F3:Searches backwards for the previous occurrence of the search pattern.
+Search_Backward_for_Selection:Shift+F3:Searches for the previous occurrence of the first word in the current selection.
+Search_Files:Ctrl+Shift+F:Searches for text across multiple files.
+Search_Forward:F4:Searches for the next occurrence of the search pattern.
+Search_Forward_for_Selection:Shift+F4:Searches for the next occurrence of the first word in the current selection.
+Select_All:X+A:Selects all text in the current file.
+Select_Block:Ctrl+-:Selects the enclosing code block
+Select_Function_or_Symbol:Alt+-:Selects the enclosing symbol definition, if any.
+Select_Line:Alt+Shift+L:Selects the whole line.
+Select_Match:Alt+=:Selects the matching brace, parentheses, or quote character.
+Select_Next_Window:X+N:Selects the next active window.
+Select_Paragraph:Ctrl+=:Selects a paragraph of text.
+Select_Previous_Window:X+B:Selects the last window.
+Select_Word:Alt+Shift+W:Selects words under cursor.
+Show_File_Status:X+S:Displays file statistics in the status bar.
+Simple_Tab:Tab:Simply inserts a tab and overrides 'Smart Tab' behavior.
+Smart_Rename:Ctrl+':Renames an identifer in all relevant locations.
+Synchronize_Files:P+S:Synchronizes the current project with changes made to files outside the editor.
+Toggle_Case:E+T:Toggles the case of the selected text.
+Undo:Ctrl+Z:Reverses the last editing operation.
+Uppercase:E+U:Converts the selected text to uppercase.
